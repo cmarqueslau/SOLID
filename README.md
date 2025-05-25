@@ -12,7 +12,7 @@ No entanto, essas operações não precisam necessariamente serem as convenciona
 É possível que um espaço vetorial ressignifique essas operações.
 
 ### Single Responsiblity Principle
-O código cumpre com esse pincípio por possuir classes que só executam métodos relacionados com a sua responsábilidade.
+O código cumpre com esse princípio por possuir classes que só executam métodos relacionados com a sua responsábilidade.
 No código abaixo, por exemplo, os métodos da classe R^n são obrigatórios e específico para um espaço vetorial de R^n.
 ```
 class Rn : public IVectorSpace{
