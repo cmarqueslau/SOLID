@@ -9,7 +9,7 @@ Aplicação dos seguintes princípios de projeto:
 O código tem como objetivo criar uma interface obrigatória para a criação de classes que são **espaços vetoriais**.
 De acordo com a Álgebra Linear, todo espaço vetorial é um conjunto de vetores munidos de duas operações: **multiplicação** e **adição**.
 No entanto, essas operações não precisam necessariamente serem as convencionais para soma e multiplicação de vetores.
-E possível que um espaço vetorial ressignifique essas operações.
+É possível que um espaço vetorial ressignifique essas operações.
 
 ### Single Responsiblity Principle
 O código cumpre com esse pincípio por possuir classes que só executam métodos relacionados com a sua responsábilidade.
